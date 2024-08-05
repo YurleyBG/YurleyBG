@@ -6,7 +6,7 @@ I'm 17 years old , I like  to draw in my free time  also I like listen to music 
 I´m  learning english yet and I like to work in a team.
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=JaynAp1&style=for-the-badge&color=green" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=yurleyBG&style=for-the-badge&color=green" alt=""/>
 </div>
 
 
