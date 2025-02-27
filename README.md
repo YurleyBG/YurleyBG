@@ -3,7 +3,7 @@
 <div align="center"> <h1> WELCOME TO MY PROFILE</h1></div>
 
 I'm from colombia, passionate about learning new stuff and tecnologies.
-I'm 17 years old, I like  to draw in my free time also I like listen to music when doing anything
+I'm 18 years old, I like  to draw in my free time also I like listen to music when doing anything
 I´m  learning english yet and I like to work in a team.
 
 <div align="center" >
@@ -23,4 +23,4 @@ I´m  learning english yet and I like to work in a team.
    <img src="https://komarev.com/ghpvc/?username=yurleyBG&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
-
+![github-user-contribution (1)](https://github.com/user-attachments/assets/65a7df97-0b41-49f1-9dc6-d5469c9283b3)
