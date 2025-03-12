@@ -39,5 +39,5 @@ Estoy aprendiendo ingles todavia y me gusta trabajar en equipo.
 
 
 <h1> Portafolio </h1>
-[portafolio]( http://portafolioyulibg.netlify.app)
+http://portafolioyulibg.netlify.app
 
