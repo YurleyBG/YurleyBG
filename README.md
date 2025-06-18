@@ -1,6 +1,7 @@
-<img align='right'  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='120' height='120'>
+
 
 <h1 align="center"> ¡Hola! Bienvenid@ a mi espacio digital😊 </h1>
+<img align='right'  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' height='200'>
 
 #
 <h5 align="center">"Amando mis sueños pero sin perderme en el intento."☕</h5>
